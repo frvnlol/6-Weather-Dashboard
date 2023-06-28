@@ -20,5 +20,4 @@ let cityWeather = function(city) {
         alert('Unable to connect to OpenWeather');
     })
 }
-cityWeather()
 
